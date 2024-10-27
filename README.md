@@ -7,7 +7,7 @@ This project presents solutions for TP in Java, focusing on arrays and string ma
 - **Calculate average**: The average is computed by summing the grades with a loop and dividing by the number of students usig the method lenght.
 - **Max and min grades**: After sorting (with built in function), the first and last grades in the array represent the min and max values.
 - **Search for a specific grade**: The program counts the number of students who received a user specified grade by iterating through the array and comparing each element.
-
+I have tried to create the functions of the menu in a separate class using static methods to be able to call them without initializing the class.
 ## Exercise 2: Conjugation of a First-Group Verb
 The program checks if a verb ends with "er," removes the suffix to show its present tense conjugation, and adds the appropriate endings along with the pronouns.
 The pronouns and suffix are stored in a 2D array matrix accessed via a loop.
